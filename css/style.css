@@ -1,0 +1,42 @@
+body{
+
+	background-image: url("../images/Jungle-Road.jpg");
+	font-family: 'Walter Turncoat', cursive;
+}
+
+button, div, form, input {
+			margin: 10px;
+}
+
+header{
+	text-align: center;
+	font-family: 'Rock Salt', cursive;
+}
+
+h1{
+	color: #cd853f;
+	font-size: 400%;
+}
+
+label{
+	color: #cd853f;
+	font-size:200%;
+}
+
+.animalImage {
+	float: right;
+	margin: 1.5%;
+}
+
+p{
+	float:right;
+	text-align: center;
+	color: white;
+}
+#animal-form{
+	align-items: right;
+	padding:3%;
+}
+button{
+
+}
