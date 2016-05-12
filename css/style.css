@@ -26,12 +26,16 @@ label{
 .animalImage {
 	float: right;
 	margin: 1.5%;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 p{
 	float:right;
 	text-align: center;
 	color: white;
+	display:inline-block;
+	vertical-align: middle;
 }
 #animal-form{
 	align-items: right;
