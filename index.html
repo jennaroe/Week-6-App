@@ -108,6 +108,9 @@
   $('#addAnimal').on('click', function(){
 
     var animal = $('#animal-input').val().trim();
+	  
+    $('#animal-input').val("");
+    $('#animal-input').focus();
 
     animals.push(animal);
 
